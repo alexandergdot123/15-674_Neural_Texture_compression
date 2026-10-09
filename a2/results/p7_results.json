@@ -1,0 +1,6 @@
+{
+  "count": 4000,
+  "train_psnr": 23.770972468636252,
+  "val_psnr": 16.58262054125468,
+  "init": "4000 Gaussians, means uniform in [-1.5,1.5]^3, scale 0.08, identity quat, gray, opacity ~0.12"
+}
